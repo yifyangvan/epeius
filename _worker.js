@@ -14,6 +14,11 @@ let addresses = [
 	//'icook.hk#若不带端口号默认端口为443',
 	//'104.17.152.41#IP也可以',
 	//'[2606:4700:e7:25:4b9:f8f8:9bfb:774a]#IPv6也OK',
+	'www.visa.com.sg#官方优选域名',
+	'www.wto.org:8080#官方优选域名',
+	'www.who.int:8880#官方优选域名',
+	'www.yifcmz.v6.navy#cmz官方',
+	'www.yifcc.rr.nu#yifcc官方',
 ];
 
 let sub = '';// 'trojan.fxxk.dedyn.io' 
